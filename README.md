@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/DeepanNarayanaMoorthy/DeepanNarayanaMoorthy/master/wave.gif" width="30px">
 
-My name is Deepan and I'm a Python developer/Data Science Enthusiast. I'm from India, currently studying 3rd Year Theoretical Computer Scence at PSG College of Technology. You can find me on  [![LinkedIn][2.2]][2].
+My name is Deepan and I'm a Python developer/Data Science Enthusiast. I'm from India, currently studying 3rd Year Theoretical Computer Science at PSG College of Technology. You can find me on  [![LinkedIn][2.2]][2].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
