@@ -1,8 +1,8 @@
 [![Header](https://raw.githubusercontent.com/DeepanNarayanaMoorthy/DeepanNarayanaMoorthy/master/readme_header.png "Header")](https://www.linkedin.com/in/deepan-narayana-moorthy-6a996416b/)
 
-# Hello, folks! வணக்கம் தோழர்களே! اهلا ياجماعة! হাই বন্ধুরা! Здравейте, момчета! Hola nois! 嗨，大家好！ 嗨，大家好！ Ahoj kluci! Bok ljudi! Hej gutter! Hallo jongens! Saluton al ĉiuj! Tere kutid! Magandang araw kaibigan! Hei kaverit! Hallo Leute! Salut les gars! Γεια σας παιδιά! היי חבר 'ה! Hai kawan! Ciao ragazzi! こんにちは、みんな！ 안녕하세요! Sveiki puiši! Sveiki, vaikinai! Hai semua! ഹലോ! नमस्कार! Cześć chłopaki! Hei folkens! Oi pessoal! Salut baieti! Привет, ребята! Čaute ľudia! Здраво момци! Zdravo družba! ¡Hola chicos! Tjena! Салом рафиқон! హాయ్ అబ్బాయిలు! สวัสดีทุกคน! Merhaba millet! Привіт, народ! ہیلو لوگو! Chào các cậu! <img src="https://raw.githubusercontent.com/DeepanNarayanaMoorthy/DeepanNarayanaMoorthy/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/DeepanNarayanaMoorthy/DeepanNarayanaMoorthy/master/wave.gif" width="30px">
 
-## My name is Deepan and I'm a Python developer/Data Science Enthusiast. I'm from India, currently studying 3rd Year Theoretical Computer Science at PSG College of Technology. You can find me on  [![LinkedIn][2.2]][2].
+I'm Deepan and I'm a Python developer/Data Science Enthusiast from India, currently studying 3rd Year Theoretical Computer Science at PSG College of Technology. You can find me on  [![LinkedIn][2.2]][2].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
