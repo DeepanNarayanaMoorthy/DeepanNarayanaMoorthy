@@ -59,7 +59,6 @@ I'm Deepan and I'm a Python developer/Data Science Enthusiast from India, curren
 <p align="center">
 <a href="https://www.linkedin.com/in/deepan-narayana-moorthy-6a996416b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Deepan" height="30" width="30" /></a>
 <a href="https://www.kaggle.com/deepann" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="deepann" height="30" width="30" /></a>
-<a href="https://www.instagram.com/iamdeepann/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamdeepann" height="30" width="30" /></a>
 </p>
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
