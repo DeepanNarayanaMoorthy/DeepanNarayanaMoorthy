@@ -1,6 +1,7 @@
 [![Header](https://raw.githubusercontent.com/DeepanNarayanaMoorthy/DeepanNarayanaMoorthy/master/readme_header.png "Header")](https://www.linkedin.com/in/deepan-narayana-moorthy-6a996416b/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/DeepanNarayanaMoorthy/DeepanNarayanaMoorthy/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/DeepanNarayanaMoorthy/DeepanNarayanaMoorthy/master/wave.gif" width="30" height="30"/>
+
 
 I'm Deepan and I'm a Python developer/Data Science Enthusiast from India, currently studying 3rd Year Theoretical Computer Science at PSG College of Technology. You can find me on  [![LinkedIn][2.2]][2].
 
