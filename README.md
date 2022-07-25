@@ -7,7 +7,7 @@
 </div>
 
 <h2 align="center">
-👨‍💻 Whoami
+👨‍💻 Who am I?
 </h2>
 <p align="center">
 <samp>A highly resourceful software developer having expertise in Python, Java, machine learning and exposure to back- end development. I design and develop applications using the latest technologies to deliver the product with quality code. I'm a final year student pursuing Theoretical Computer Science course at PSG College of Technology.
