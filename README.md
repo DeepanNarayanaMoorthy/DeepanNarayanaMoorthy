@@ -7,9 +7,7 @@
 <div data-align="center">
 <p align="center"><img src="https://raw.githubusercontent.com/DeepanNarayanaMoorthy/DeepanNarayanaMoorthy/master/readme_header.png" alt="header"/></p>
 </div>
-<p align="center">
-(Open for Hiring)
-</p>
+
 <h2 align="center">
 👨‍💻 Whoami
 </h2>
@@ -33,7 +31,7 @@
 <h3 id="ideseditors" align="center">💻 IDEs/Editors</h3>
 <p align="center"><img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&amp;logo=Eclipse&amp;logoColor=white" alt="Eclipse" /> <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter Notebook" /> <img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&amp;logo=spyder%20ide&amp;logoColor=maroon" alt="Spyder" /> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&amp;logo=sublime-text&amp;logoColor=important" alt="Sublime Text" /> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" alt="Visual Studio Code" /></p>
 <h3 id="operating-systems" align="center">🎛️ Operating Systems</h3>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Windows" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
+<p align="center"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Windows" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" /></p>
 </p>
 <hr>
 <h2 align="center">
