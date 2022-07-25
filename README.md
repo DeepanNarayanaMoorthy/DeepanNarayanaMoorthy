@@ -1,6 +1,4 @@
-<!--
-**Ileriayo/ileriayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+
 <h1 align="center">
 👋
 </h1>
@@ -12,7 +10,7 @@
 👨‍💻 Whoami
 </h2>
 <p align="center">
-<samp>A highly resourceful software developer having expertise in Python, Java, machine learning and exposure to back- end development. I design and develop applications using the latest technologies to deliver the product with quality code. I’m a Python developer/Data Science Enthusiast from India, currently pursuing final Year of Theoretical Computer Science course at PSG College of Technology.
+<samp>A highly resourceful software developer having expertise in Python, Java, machine learning and exposure to back- end development. I design and develop applications using the latest technologies to deliver the product with quality code. I'm a final year student pursuing Theoretical Computer Science course at PSG College of Technology.
  </samp> <br> <br> <img src="https://komarev.com/ghpvc/?username=DeepanNarayanaMoorthy" alt="https://github.com/DeepanNarayanaMoorthy" />
 </p>
 <hr>
