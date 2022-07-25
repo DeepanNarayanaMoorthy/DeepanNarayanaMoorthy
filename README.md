@@ -69,14 +69,14 @@ I'm Deepan and I'm a Python developer/Data Science Enthusiast from India, curren
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## &#x1f4c8; GitHub Stats
+<!-- ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/DeepanNarayanaMoorthy/DeepanNarayanaMoorthy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepanNarayanaMoorthy&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/DeepanNarayanaMoorthy/DeepanNarayanaMoorthy">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeepanNarayanaMoorthy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Deepan's GitHub Stats" />
-</a>
+</a> -->
 
 <!-- links to social media icons -->
 
@@ -97,7 +97,7 @@ I'm Deepan and I'm a Python developer/Data Science Enthusiast from India, curren
 
 
 
-![](https://komarev.com/ghpvc/?username=DeepanNarayanaMoorthy&color=blue)
+<!-- ![](https://komarev.com/ghpvc/?username=DeepanNarayanaMoorthy&color=blue) -->
 
 <p align="center">
 <a href="https://www.linkedin.com/in/deepann/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Deepan" height="30" width="30" /></a>
