@@ -78,15 +78,6 @@ I'm Deepan and I'm a Python developer/Data Science Enthusiast from India, curren
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeepanNarayanaMoorthy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Deepan's GitHub Stats" />
 </a>
 
-<a href="https://github.com/DeepanNarayanaMoorthy/What-Does-BLM-Say">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeepanNarayanaMoorthy&repo=What-Does-BLM-Say&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/DeepanNarayanaMoorthy/Effect-of-COVID-19-pandemic-on-E-commerce">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeepanNarayanaMoorthy&repo=Effect-of-COVID-19-pandemic-on-E-commerce&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
