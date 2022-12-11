@@ -2,7 +2,8 @@
 <h1 align="center">
 👋
 </h1>
-![Header](https://github.com/DeepanNarayanaMoorthy/DeepanNarayanaMoorthy/blob/master/readme_header.gif)
+
+<img src="https://github.com/DeepanNarayanaMoorthy/DeepanNarayanaMoorthy/blob/master/readme_header.gif" alt="Header"/>
 
 <h2 align="center">
 👨‍💻 Who am I?
