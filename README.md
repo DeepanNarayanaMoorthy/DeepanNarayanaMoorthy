@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Deepan%20Narayanamoorthy&fontSize=36&fontColor=ffffff&desc=Senior%20DevOps%20%2F%20Cloud%20Engineer&descSize=16&descAlignY=62&textBg=false&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,50:1BA1E2,100:1BFFFF&height=200&section=header&text=Deepan%20Narayanamoorthy&fontSize=36&fontColor=ffffff&desc=Senior%20DevOps%20%2F%20Cloud%20Engineer&descSize=16&descAlignY=62&textBg=false&animation=fadeIn" width="100%"/>
 </div>
 
 I own infrastructure end to end: Terraform across prod/preprod/sandbox without drift, CI/CD migrated off long-lived cloud keys onto GitHub OIDC, and the observability + incident-response work that keeps production honest. **AWS Certified Solutions Architect — Associate.**
@@ -37,11 +37,11 @@ $ curl -s https://deepann.pages.dev/api/whoami | jq
 
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/Resume-0F2027?style=for-the-badge&logo=readdotcv&logoColor=white)](https://deepann.pages.dev/resume/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deepann.pages.dev)
+[![Resume](https://img.shields.io/badge/Resume-2E3192?style=for-the-badge&logo=readdotcv&logoColor=white)](https://deepann.pages.dev/resume/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1BA1E2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deepann.pages.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepann/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepanntech@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,50:1BA1E2,100:1BFFFF&height=100&section=footer" width="100%"/>
 
 </div>
